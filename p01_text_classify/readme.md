@@ -4,7 +4,7 @@
 数据预处理：使用jieba分词、去除停用词后，建立词袋，借助TF-IDF将文本转成向量
 模型训练：朴素贝叶斯
 
-### 运行环境(Envirerment of software)
+### 测试环境(Envirerment of software)
 ```
 python 3.7.4
 pandas 0.25.1
