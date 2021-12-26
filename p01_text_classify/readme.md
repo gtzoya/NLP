@@ -4,7 +4,7 @@
 数据预处理：使用jieba分词、去除停用词后，建立词袋，借助TF-IDF将文本转成向量
 模型训练：朴素贝叶斯
 
-### 测试环境(Envirerment of software)
+### 运行环境(Environment of software)
 ```
 python 3.7.4
 pandas 0.25.1
@@ -79,8 +79,8 @@ python text_classify.py
           财经       0.96      0.99      0.97      1000
 
     accuracy                           0.91     10000
-   macro avg       0.92      0.91      0.90     10000
-weighted avg       0.92      0.91      0.90     10000
+   macro avrg       0.92      0.91      0.90     10000
+weighted avrg       0.92      0.91      0.90     10000
 
 Total elapse: 253.36621832847595
 The End ... ...
